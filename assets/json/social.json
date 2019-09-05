@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "state": "PUBLISHED",
+        "cdnId": "f0b6cd94-d6aa-4980-a630-f56942b43623",
+        "member": "CH-NEWS-SERVER",
+        "tstamp": "2019-09-03T00:30:00.981Z",
+        "duration": "00'08",
+        "user": "news-social",
+        "comment": "",
+        "service": "",
+        "author": "CH-NEWS-SERVER",
+        "type": "IARO",
+        "scheduledStart": "00:00",
+        "evsClipGuid": "",
+        "umid": "2019_21010286",
+        "metadata": {
+            "slug": "SPAIN: Police, Red Cross join forces in search for missing Olympic skier",
+            "origin": "ZZEBU",
+            "city": "N/A",
+            "source": "N/A",
+            "transmissionType": "EYE",
+            "clipBasename": "AAAAA"
+        },
+        "iaroState": "INT",
+        "restrictions": "CONDITION OF USE: Members must provide a link to where this content is used online and on social platforms in the comment section below this article (One link per news organisation is sufficient) If using in broadcast a link is not required, however, the mandatory onscreen courtesy still applies If viewing and downloading this content from the news exchange website, members must email a link to where the content is used online and on social platforms to inbox@evnsocialnewswire.ch MANDATORY ONSCREEN COURTESY: Emily Kinchington",
+        "dopesheet": "The search for Spanish skier Blanca Fernandez Ochoa, who has been missing for nine days, continued on Monday, as volunteers and police scoured the mountains around Cercedilla, a town 60km north of Madrid. Police used helicopters and sniffer dogs to assist in the search for the sportswoman, who had reportedly told her family she was going on a hike on August 24. Following her failure to return after four days, her daughter filed a police report. The head of the Civil Guard police, Jose Antonio Berrocal, told journalists the search area was vast and the search would likely be a long process. Fernandez’s car was found in Cercedilla over the weekend. Fernandez represented Spain four times in the Olympic Games, winning a bronze medal in her last attempt in 1992.",
+        "url": "https://embed-ssl.wistia.com/deliveries/27c30b17a052bdcf7c8bc25c237f812c/spain-police-red-cross-join-forces-in-search-for-missing-olympic-skier.mp4"
+    },
+    {
+        "id": 2,
+        "state": "PUBLISHED",
+        "cdnId": "f0b6cd94-d6aa-4980-a630-f56942b43623",
+        "member": "CH-NEWS-SERVER",
+        "tstamp": "2019-09-03T00:30:00.981Z",
+        "duration": "00'08",
+        "user": "news-social",
+        "comment": "",
+        "service": "",
+        "author": "CH-NEWS-SERVER",
+        "type": "IARO",
+        "scheduledStart": "00:00",
+        "evsClipGuid": "",
+        "umid": "2019_21010286",
+        "metadata": {
+            "slug": "ALGERIA: Thousands of students swarm Algiers streets in renewed demand for election date",
+            "origin": "ZZEBU",
+            "city": "N/A",
+            "source": "N/A",
+            "transmissionType": "EYE",
+            "clipBasename": "AAAAA"
+        },
+        "iaroState": "INT",
+        "restrictions": "CONDITION OF USE: Members must provide a link to where this content is used online and on social platforms in the comment section below this article (One link per news organisation is sufficient) If using in broadcast a link is not required, however, the mandatory onscreen courtesy still applies If viewing and downloading this content from the news exchange website, members must email a link to where the content is used online and on social platforms to inbox@evnsocialnewswire.ch MANDATORY ONSCREEN COURTESY: Emily Kinchington",
+        "dopesheet": "Thousands of people joined weekly student protests in Algeria’s capital city on Tuesday, September 3, more than six months after the movement that forced the resignation of former President Abdelaziz Bouteflika in April began. Mass weekly protests have been rocking the country for nearly seven months to demand the removal of a political and military establishment that has dominated the country for decades and is widely viewed as out of touch with younger generations. Tuesday’s demonstrations came just a day after army chief Lieutenant General Agmed Gaid Salah said a date for the long-delayed presidential election should be announced by mid-september, paving the way for polls to be held before the end of the year. Videos filmed on Tuesday morning shows crowds occupying streets in the centre of Algiers.",
+        "url": "https://embed-ssl.wistia.com/deliveries/ebec7c281731e007da3ec3a3216c2653/algeria-thousands-of-students-swarm-algiers-streets-in-renewed-demand-for-election-date.mp4"
+    }
+]
