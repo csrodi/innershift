@@ -92,6 +92,8 @@ THE SOFTWARE.
 
 @angular/material/sidenav
 
+@angular/material/snack-bar
+
 @angular/material/table
 
 @angular/material/tabs
